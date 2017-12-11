@@ -9,6 +9,8 @@ Ok, this is origigi from github. Ok, go...
 
 Dobro, ovo radi, korak po korak... 51 sekunda? je to ok?
 Puno se toga dogodi u toj jednoj minuti :rocket:
+Ovo je tek prvi korak, puno toga če se popraviti :house:
+sa gulp 4 i incrementalnim buildingom, barem nadam se :question:
 
 ### Markdown
 
