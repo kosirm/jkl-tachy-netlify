@@ -7,7 +7,7 @@ excerpt: "This is some teaser text to get you interested in reading my post."
 ---
 Ok, this is origigi from github. Ok, go...
 
-Dobro, ovo radi, korak po korak...
+Dobro, ovo radi, korak po korak... 51 sekunda? je to ok?
 
 Welcome to Jekyll! This is an example blog post that shows several types of HTML content supported in this theme.
 

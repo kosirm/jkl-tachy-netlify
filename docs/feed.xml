@@ -4,7 +4,7 @@
  <title></title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2017-12-11T15:29:45+00:00</updated>
+ <updated>2017-12-11T15:32:09+00:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -19,7 +19,7 @@
    <id>/2016/01/01/my-first-post</id>
    <content type="html">&lt;p&gt;Ok, this is origigi from github. Ok, go…&lt;/p&gt;
 
-&lt;p&gt;Dobro, ovo radi, korak po korak…&lt;/p&gt;
+&lt;p&gt;Dobro, ovo radi, korak po korak… 51 sekunda? je to ok?&lt;/p&gt;
 
 &lt;p&gt;Welcome to Jekyll! This is an example blog post that shows several types of HTML content supported in this theme.&lt;/p&gt;
 
