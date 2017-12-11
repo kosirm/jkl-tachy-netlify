@@ -4,7 +4,7 @@
  <title></title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2017-12-11T15:32:09+00:00</updated>
+ <updated>2017-12-11T15:42:10+00:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -19,9 +19,10 @@
    <id>/2016/01/01/my-first-post</id>
    <content type="html">&lt;p&gt;Ok, this is origigi from github. Ok, go…&lt;/p&gt;
 
-&lt;p&gt;Dobro, ovo radi, korak po korak… 51 sekunda? je to ok?&lt;/p&gt;
+&lt;p&gt;Dobro, ovo radi, korak po korak… 51 sekunda? je to ok?&lt;br /&gt;
+Puno se toga dogodi u toj jednoj minuti :rocket:&lt;/p&gt;
 
-&lt;p&gt;Welcome to Jekyll! This is an example blog post that shows several types of HTML content supported in this theme.&lt;/p&gt;
+&lt;h3 id=&quot;markdown&quot;&gt;Markdown&lt;/h3&gt;
 
 &lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
 
@@ -133,8 +134,8 @@
 
 &lt;p&gt;Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot; /&gt;
-&lt;img src=&quot;http://placehold.it/400x200&quot; alt=&quot;placeholder&quot; title=&quot;Medium example image&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;http://placehold.it/400x200&quot; alt=&quot;placeholder&quot; title=&quot;Medium example image&quot; /&gt;&lt;br /&gt;
 &lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;

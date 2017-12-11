@@ -8,8 +8,9 @@ excerpt: "This is some teaser text to get you interested in reading my post."
 Ok, this is origigi from github. Ok, go...
 
 Dobro, ovo radi, korak po korak... 51 sekunda? je to ok?
+Puno se toga dogodi u toj jednoj minuti :rocket:
 
-Welcome to Jekyll! This is an example blog post that shows several types of HTML content supported in this theme.
+### Markdown
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
