@@ -4,7 +4,7 @@
  <title></title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2017-12-11T16:21:28+00:00</updated>
+ <updated>2017-12-11T16:32:19+00:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -139,9 +139,9 @@ ali sada je centar mavo i gulp workflow…&lt;/p&gt;
 
 &lt;p&gt;Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;http://placehold.it/400x200&quot; alt=&quot;placeholder&quot; title=&quot;Medium example image&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://placehold.it/800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://placehold.it/400x200&quot; alt=&quot;placeholder&quot; title=&quot;Medium example image&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://placehold.it/200x200&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
 
