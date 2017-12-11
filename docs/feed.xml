@@ -4,7 +4,7 @@
  <title></title>
  <link href="/atom.xml" rel="self"/>
  <link href="/"/>
- <updated>2017-12-11T16:07:01+00:00</updated>
+ <updated>2017-12-11T16:10:22+00:00</updated>
  <id></id>
  <author>
    <name></name>
@@ -22,7 +22,8 @@
 &lt;p&gt;Dobro, ovo radi, korak po korak… 51 sekunda? je to ok?&lt;br /&gt;
 Puno se toga dogodi u toj jednoj minuti :rocket:&lt;br /&gt;
 Ovo je tek prvi korak, puno toga če se popraviti :house:&lt;br /&gt;
-sa gulp 4 i incrementalnim buildingom, barem nadam se :question:&lt;/p&gt;
+sa gulp 4 i incrementalnim buildingom, barem nadam se :question:&lt;br /&gt;
+Ok, ovo je incrementalno&lt;/p&gt;
 
 &lt;h3 id=&quot;markdown&quot;&gt;Markdown&lt;/h3&gt;
 
