@@ -11,7 +11,10 @@ Dobro, ovo radi, korak po korak... 51 sekunda? je to ok?
 Puno se toga dogodi u toj jednoj minuti :rocket:
 Ovo je tek prvi korak, puno toga če se popraviti :house:
 sa gulp 4 i incrementalnim buildingom, barem nadam se :question:
-Ok, ovo je incrementalno
+Ok, ovo je incrementalno (samo jekyll), nema baš neke razlike, obzirom na to da je samo jedna stranica :smile:
+Kada bude stotinjak stranica, to če biti korisno,
+ali sada je centar mavo i gulp workflow...
+{:my-paragraph .bg-green .white .pv2 .ph2}
 
 ### Markdown
 
