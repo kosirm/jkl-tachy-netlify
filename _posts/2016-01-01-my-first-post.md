@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "My First Post"
-date:   2016-01-01 10:00:00
-previewImage: "/assets/img/cat.jpg"
-excerpt: "Wanna do websites? Ok, that's nice. You can use THIS site to create YOUR site. Really!"
+title: My First Post
+date: {}
+previewImage: /assets/img/cat.jpg
+excerpt: >-
+  Wanna do websites? Ok, that's nice. You can use THIS site to create YOUR site.
+  Really!
+published: true
 ---
 Ok, this is origigi from github. Ok, go...
 
@@ -11,6 +14,7 @@ Dobro, ovo radi, korak po korak... 51 sekunda? je to ok?
 Puno se toga dogodi u toj jednoj minuti :rocket:
 Ovo je tek prvi korak, puno toga če se popraviti :house:
 sa gulp 4 i incrementalnim buildingom, barem nadam se :question:
+Ok, ovo editiram sa Prose.io... Jel to pametno?
 Ok, ovo je incrementalno (samo jekyll), nema baš neke razlike, obzirom na to da je samo jedna stranica :smile:
 Kada bude stotinjak stranica, to če biti korisno,
 ali sada je centar mavo i gulp workflow...
