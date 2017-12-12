@@ -1,19 +1,18 @@
 ---
 layout: post
-title:  "My First Post"
+title:  "Jekyll Playground"
 date:   2016-01-01 10:00:00
 previewImage: "/assets/img/cat.jpg"
 excerpt: "Wanna do websites? Ok, that's nice. You can use THIS site to create YOUR site. Really!"
 ---
-Ok, this is origigi from github. Ok, go...
 
-Dobro, ovo radi, korak po korak... 51 sekunda? je to ok?
-Puno se toga dogodi u toj jednoj minuti :rocket:
+Dobro, ovo radi, korak po korak... Otprilike 2 minute!
+Puno se toga dogodi u te dvije minute :rocket:
 Ovo je tek prvi korak, puno toga če se popraviti :house:
-sa gulp 4 i incrementalnim buildingom, barem nadam se :question:
-Ok, ovo je incrementalno (samo jekyll), nema baš neke razlike, obzirom na to da je samo jedna stranica :smile:
+Sa GULP 4 i incrementalnim buildingom, nadam se... :question:
+Ovo je incrementalno (samo jekyll), nema baš neke razlike, obzirom na to da je samo jedna stranica :smile:
 Kada bude stotinjak stranica, to če biti korisno,
-ali sada je centar mavo i gulp workflow...
+ali sada je u centru mavo i gulp workflow...
 {:my-paragraph .bg-green .white .pv2 .ph2}
 
 ### Markdown
