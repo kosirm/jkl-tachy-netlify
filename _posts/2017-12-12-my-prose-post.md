@@ -7,6 +7,11 @@ excerpt: "Wanna do websites? Ok, that's nice. You can use THIS site to create YO
 ---
 
 Dobro, ovo radi, korak po korak... Otprilike 2 minute!
+Blizu sam ... znači javascript i ostalo ču raditi lokalno (dev) sa gulpom, ali za KREIRANJE NOVIH DOKUENTATA če mi TREBATI GULP ipak...
+Jedino rješenje vidim u tome, da nekako pošaljem build komandu - to jest da promjenim netlify.toml
+direktno sa stranice.
+:exclamation:KORAK PO KORAK - PRVO MAVO - ONDA DALJE !!! :exclamation:
+There is something in jekyll which I really like :heart:
 Puno se toga dogodi u te dvije minute :rocket:
 Ovo je tek prvi korak, puno toga če se popraviti :house:
 Sa GULP 4 i incrementalnim buildingom, nadam se... :question:
