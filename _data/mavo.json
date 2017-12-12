@@ -4,11 +4,7 @@
 		{
 			"ArticleImage": "http://lorempixel.com/output/technics-q-c-640-480-4.jpg",
 			"ArticleTitle": "Ovo je jekyll site editor",
-<<<<<<< HEAD
 			"ArticleText": "vrlo vrlo na početku, ali mavo po mavo če radit, nadam se!",
-=======
-			"ArticleText": "vrlo vrlo na početku, ali mavo po mavo če radit, nadam se!\npokušaj br 2",
->>>>>>> b79540565c4f343e1678b353997302ab3610f5e1
 			"ArticleAuthor": "By Milan Košir"
 		},
 		{
@@ -30,8 +26,4 @@
 			"ArticleAuthor": "Milan"
 		}
 	]
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> b79540565c4f343e1678b353997302ab3610f5e1
